@@ -94,4 +94,5 @@ The timestamp is part of the hash input. Capturing it once at `__init__` ensures
 ## Author
 
 Sophia — Blockchain Developer in training | Technical Writer
-[LinkedIn] https://www.linkedin.com/in/sophia-dabaye [GitHub](https://github.com/YOURUSERNAME)
+LinkedIn: https://www.linkedin.com/in/sophia-dabaye
+ [GitHub](https://github.com/YOURUSERNAME)
